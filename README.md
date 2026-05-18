@@ -54,7 +54,7 @@ I'm always open to discussing new music projects, collaborations, and performanc
 
 ### 🎵 Music Platforms:
 - 🎬 **YouTube**: [Spencer Marcu](http://www.youtube.com/spencermarcu)
-- 🎧 **SoundCloud**: [spencermarcu](http://soundcloud.com/spencermarcu)
+- 🎧 **SoundCloud**: [spencermarcu](https://soundcloud.com/spencermarcu)
 
 ### 🌐 Social Media:
 - 🐦 **Twitter**: [@spencermarcu](https://www.twitter.com/_spencermarcu_)
