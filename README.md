@@ -10,11 +10,11 @@ Software Developer
 
 - Software Development
 - Open-source Contributions
-- Clean Code Practices 
+- Clean Code Practices
 
 ## Connect with Me
 
-Find me on GitHub: @SPENCERMARCU
+Find me on GitHub: @SpencerMarcu
 
 Feel free to explore my repositories and connect with me for collaboration opportunities!
 
